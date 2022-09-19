@@ -72,7 +72,7 @@ const Home: NextPage = () => {
                 <Link href="/photos">
                   <Image
                     src="/images/signin.png"
-                    alt="TSMP Spawn"
+                    alt="Spawn"
                     className="absolute -top-16 -left-10 rounded-lg cursor-pointer"
                     width={1920}
                     height={1080}
